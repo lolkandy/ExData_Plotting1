@@ -1,4 +1,4 @@
-## Coursera. Explopratory Data Analysis: Course Project 1.3. May 10, 2014
+## Coursera. Explopratory Data Analysis: Course Project 1.4. May 10, 2014
 
 ## read in, examine, and subset data; set column types; create new variable Date_time
 library(data.table)
